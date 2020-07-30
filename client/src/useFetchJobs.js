@@ -8,7 +8,7 @@ const ACTION_TYPE = {
   TOGGLE_NEXT: 'TOGGLE_NEXT',
 };
 
-const URL = 'http://localhost:5000/api/jobs';
+const URL = '/api/jobs';
 
 function reducer(state, action) {
   switch (action.type) {
