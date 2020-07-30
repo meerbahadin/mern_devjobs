@@ -1,0 +1,9 @@
+.search-form .form-control {
+    border: none;
+    background: #f0f5f9;
+}
+
+.search-form .form-control:focus {
+    background: white;
+    border: 1px solid #5260FF;
+}
